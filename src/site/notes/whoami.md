@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/whoami/","title":"RISC-V Sv39 MMU RTL Design","tags":["RISCV","MMU","RTL","Sv39","TLB","gardenEntry","gardenEntry"],"noteIcon":"","created":"2025-01-11T17:46:52.255+05:30","updated":"2025-01-12T17:17:28.246+05:30"}
+{"dg-publish":true,"permalink":"/whoami/","title":"RISC-V Sv39 MMU RTL Design","tags":["RISCV","MMU","RTL","Sv39","TLB"],"noteIcon":"","created":"2025-01-11T17:46:52.255+05:30","updated":"2025-01-12T17:25:34.910+05:30"}
 ---
 
 
